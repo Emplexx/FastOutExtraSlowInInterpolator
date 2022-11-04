@@ -35,3 +35,7 @@ val anim by animateDpAsState(
 
 ...
 ```
+
+###### About
+
+[How I made this](https://github.com/Emplexx/FastOutExtraSlowInInterpolator/blob/main/how.md)
