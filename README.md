@@ -17,7 +17,7 @@ transform.interpolator = FastOutExtraSlowInInterpolator()
 
 # FastOutExtraSlowInEasing.kt
 
-![Speech Bubble of FastOutExtraSlowInEasing marked as unresolved reference](https://user-images.githubusercontent.com/64900852/199969599-4babeeb5-333b-4aa7-87fe-c2a9d871ece3.png)
+![Speech Bubble of FastOutExtraSlowInEasing marked as unresolved reference](https://github.com/Emplexx/FastOutExtraSlowInInterpolator/blob/main/funnyimageTWO.png)
 
 An Easing variable that corresponds to [fast_out_extra_slow_in](https://developer.android.com/reference/android/R.interpolator.html#fast_out_extra_slow_in), since it doesn't exist in the [androidx.compose.animation.core](https://developer.android.com/reference/kotlin/androidx/compose/animation/core/package-summary) by default **either**.
 
